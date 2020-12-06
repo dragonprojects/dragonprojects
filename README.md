@@ -1,0 +1,2 @@
+# Dragon Projects
+This repository houses all the contents of the website and is synced with the web server. You may contribute to the site by creating a pull request in this repository. Once approved, it will be pushed to the site and made public immedietly.
