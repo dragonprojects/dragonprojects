@@ -2,7 +2,7 @@
 title: Bedrock
 description: 
 published: true
-date: 2020-11-10T20:15:33.579Z
+date: 2021-02-20T19:02:41.585Z
 tags: 
 editor: undefined
 dateCreated: 2020-11-10T17:07:01.709Z
@@ -21,6 +21,3 @@ To get information on how to setup GeyserMC, [visit their wiki](https://github.c
 
 ## Joining the dedicated server
 We also have a dedicated server specifically for Bedrock Edition players available. Use the following address in your Minecraft client: `bedrock.craft.dragonprojects.net`.
-
-> This flavour of Dragon Craft is experimental and may be unstable.
-{.is-warning}

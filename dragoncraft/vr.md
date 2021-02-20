@@ -2,7 +2,7 @@
 title: Virtual Reality
 description: 
 published: true
-date: 2020-12-06T16:51:13.344Z
+date: 2021-02-20T18:56:42.451Z
 tags: 
 editor: undefined
 dateCreated: 2020-11-04T22:37:25.801Z
@@ -25,4 +25,4 @@ The Bedrock Edition of Minecraft officially support certain virtual reality head
 ## VRChat Conversion Project
 Invitees can add their creativity to this Minecraft world using creative mode. When the world is considered finished, it will be exported to VRChat so that everyone can enjoy and socialise in it in virtual reality.
 
-Use the following address in your Minecraft client: `vr.craft.dragonprojects.net`.
+Use the following address in your Minecraft client: `vrchat.craft.dragonprojects.net`.
