@@ -2,7 +2,7 @@
 title: Branding
 description: 
 published: true
-date: 2021-02-22T21:23:46.839Z
+date: 2021-02-22T21:37:40.668Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T21:23:46.839Z
@@ -48,7 +48,7 @@ Primary: Eccentric Blue (#149dcc)
 Secondary: Royal Blue (#004D80)
 
 ## Fonts
-Dragon Projects uses [LEMON MILK Pro FTR](https://marsnev.com/?product=lemon-milk-pro-ftr) for most texts on the web. It may adapt its font to blend in with the ecosystem of different platforms like iOS (San Fransisco) and Android (Roboto).
+Dragon Projects uses [LEMON MILK Pro FTR](https://marsnev.com/?product=lemon-milk-pro-ftr) for most texts on the web. It may adapt its font to blend in with the ecosystem of different platforms like iOS and Android.
 
 ## Referencing
 
