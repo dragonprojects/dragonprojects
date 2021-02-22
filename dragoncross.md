@@ -2,9 +2,9 @@
 title: Dragon Cross
 description: 
 published: true
-date: 2021-01-22T20:26:20.763Z
+date: 2021-02-22T21:30:37.183Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-22T13:29:20.419Z
 ---
 
