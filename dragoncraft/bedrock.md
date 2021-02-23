@@ -2,7 +2,7 @@
 title: Bedrock
 description: 
 published: true
-date: 2021-02-23T16:16:17.339Z
+date: 2021-02-23T16:19:04.084Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-10T17:07:01.709Z
@@ -18,6 +18,9 @@ To join the Dragon Craft server for Minecraft: Bedrock Edition, use the followin
 
 ## macOS and Linux support
 Though Minecraft: Java Edition is the only version of Minecraft that officially supports macOS and Linux, using a community-provided tool called "Minecraft Bedrock Launcher", you can run Bedrock Edition on these platforms as well.
+
+> You cannot use the macOS version of Minecraft: Education Edition to play with Minecraft: Bedrock Edition players, despite both games using the same engine.
+{.is-danger}
 
 macOS users should download the application [here](https://mrarm.io/r/mcpelauncher-osx) and drag it to their Applications folder. Linux users are advised to install Minecraft Bedrock Launcher using Flatpak.
 
