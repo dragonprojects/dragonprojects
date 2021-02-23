@@ -2,7 +2,7 @@
 title: Bedrock
 description: 
 published: true
-date: 2021-02-23T16:21:21.455Z
+date: 2021-02-23T16:23:08.848Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-10T17:07:01.709Z
@@ -11,7 +11,7 @@ dateCreated: 2020-11-10T17:07:01.709Z
 # Bedrock Edition
 Bedrock Edition refers to the multi-platform family of editions of Minecraft, which includes all currently supported editions except Java Edition. Previously, before the Better Together update, Bedrock Edition was also referred to as "Pocket Edition", "MCPE", or "Windows 10 Edition".
 
-> This edition of Minecraft officially supports mobile devices and virtual reality headsets.
+> This edition of Minecraft officially supports smartphones, tablets, gaming consoles and virtual reality headsets.
 {.is-success}
 
 To join the Dragon Craft server for Minecraft: Bedrock Edition, use the following address: `craft.dragonprojects.net`.
