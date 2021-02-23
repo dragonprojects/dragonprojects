@@ -2,9 +2,9 @@
 title: About
 description: 
 published: true
-date: 2021-02-20T18:56:05.807Z
+date: 2021-02-23T15:35:42.466Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-11-04T20:31:01.578Z
 ---
 
@@ -14,7 +14,7 @@ We host a plethora of servers accessible from the addresses following below.
 
 - **Main**: `craft.dragonprojects.net`
 A vanilla Minecraft: Java Edition server compatible with Windows, macOS and Linux.
-- **Bedrock**: `bedrock.craft.dragonprojects.net`
+- **Bedrock**: `craft.dragonprojects.net`
 A vanilla Minecraft server compatible with Windows 10, mobile devices, consoles and Oculus virtual reality headsets ("Bedrock Edition").
 - **VRChat**: `vrchat.craft.dragonprojects.net`
 A vanilla Minecraft: Java Edition server where players can build freely in creative mode. The world will be exported to VRChat once finished.
