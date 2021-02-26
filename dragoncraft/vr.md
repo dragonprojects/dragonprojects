@@ -2,9 +2,9 @@
 title: Virtual Reality
 description: 
 published: true
-date: 2021-02-20T18:56:42.451Z
+date: 2021-02-26T22:08:49.701Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-11-04T22:37:25.801Z
 ---
 
@@ -16,8 +16,6 @@ Get right inside the world of Minecraft with virtual reality. Build, explore and
 
 ### For Java
 Vivecraft is a mod for the Java Edition of Minecraft allowing you to play it in virtual reality with any SteamVR-compatible headset. For more information, [visit the Vivecraft website](http://www.vivecraft.org).
-
-Currently, the Dragon Craft modpack does not contain Vivecraft by default, but we do officially support it. In order to use it with VR, install Vivecraft and afterwards install our modpack.
 
 ### For Bedrock
 The Bedrock Edition of Minecraft officially support certain virtual reality headsets. For supported platforms, visit the [VR page on Minecraft's official site](https://www.minecraft.net/en-us/vr). To learn more about how to use the Bedrock Edition of Minecraft in combination with Dragon Craft, [visit our Bedrock page](/dragoncraft/bedrock).
